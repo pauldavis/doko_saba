@@ -122,6 +122,88 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
+      <library name="actionmailer (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/actionmailer) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/actionmailer/bin" />
+          <root url="file://$MODULE_DIR$/../rails/actionmailer/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/actionmailer/bin" />
+          <root url="file://$MODULE_DIR$/../rails/actionmailer/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="actionpack (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/actionpack) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/actionpack/bin" />
+          <root url="file://$MODULE_DIR$/../rails/actionpack/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/actionpack/bin" />
+          <root url="file://$MODULE_DIR$/../rails/actionpack/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="actionview (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/actionview) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/actionview/bin" />
+          <root url="file://$MODULE_DIR$/../rails/actionview/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/actionview/bin" />
+          <root url="file://$MODULE_DIR$/../rails/actionview/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activejob (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/activejob) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/activejob/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/activejob/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activemodel (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/activemodel) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/activemodel/bin" />
+          <root url="file://$MODULE_DIR$/../rails/activemodel/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/activemodel/bin" />
+          <root url="file://$MODULE_DIR$/../rails/activemodel/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activerecord (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/activerecord) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/activerecord/bin" />
+          <root url="file://$MODULE_DIR$/../rails/activerecord/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/activerecord/bin" />
+          <root url="file://$MODULE_DIR$/../rails/activerecord/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activesupport (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/activesupport) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/activesupport/bin" />
+          <root url="file://$MODULE_DIR$/../rails/activesupport/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/activesupport/bin" />
+          <root url="file://$MODULE_DIR$/../rails/activesupport/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="rails (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails) [path][gem]">
         <CLASSES>
           <root url="file://$MODULE_DIR$/../rails/ci" />
@@ -152,6 +234,18 @@
           <root url="file://$MODULE_DIR$/../rails/actionmailer" />
           <root url="file://$MODULE_DIR$/../rails/activerecord" />
           <root url="file://$MODULE_DIR$/../rails/activesupport" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="railties (v[path], /Users/pauldavis/Documents/Projects/Active/Rails/curious/doko/m.0/rails/railties) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../rails/railties/exe" />
+          <root url="file://$MODULE_DIR$/../rails/railties/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../rails/railties/exe" />
+          <root url="file://$MODULE_DIR$/../rails/railties/lib" />
         </SOURCES>
       </library>
     </orderEntry>

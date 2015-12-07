@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 # Use the local rails rather than getting a GitHub rails on every bundle.
 # gem 'rails', github: "rails/rails"
 gem 'rails', path: "../rails"
+
 gem 'sprockets-rails', github: "rails/sprockets-rails"
 gem 'sprockets', github: "rails/sprockets"
 gem 'sass-rails', github: "rails/sass-rails"
@@ -24,7 +25,7 @@ gem 'pg', '~> 0.18'
 gem 'active_model_serializers', '~> 0.10.0.rc2'
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
-# gem 'rack-cors'
+gem 'rack-cors'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
